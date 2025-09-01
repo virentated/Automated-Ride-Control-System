@@ -18,6 +18,5 @@ A lightweight **operator-first** control system that simulates an amusement-ride
 ## Demo
 
 A short video showcasing the system and integrated UI is included with the project submission.
-
-- Public link placeholder: [Watch the demo](https://queensuca-my.sharepoint.com/:v:/g/personal/21vt17_queensu_ca/Ec8uzD0_1wBAnVCl1MK6jX4Bnh07WBWJGYlRnKAQk828eg?e=BXPM4m)
+- [Watch the demo](https://queensuca-my.sharepoint.com/:v:/g/personal/21vt17_queensu_ca/Ec8uzD0_1wBAnVCl1MK6jX4Bnh07WBWJGYlRnKAQk828eg?e=BXPM4m)
 
