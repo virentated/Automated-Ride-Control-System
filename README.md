@@ -1,10 +1,10 @@
-#Ride-Control-System (Python + Qt5)
+# Ride-Control-System (Python + Qt5)
 
 A lightweight **operator-first** control system that simulates an amusement-ride control panel. It synchronizes ride components, enforces safety protocols during routine and emergency operations, and provides clear operator feedback through a Qt5 desktop UI.
 
 > **Note:** This project formed part of a larger proposal that earned an **invitation to Universal Studios’ annual TMTDC competition**.
 
-## ✨ Features
+## Features
 
 - **Start / Stop ride cycles** with pre-dispatch interlocks  
 - **Selective boat stop** — hold a specific boat without halting the entire ride  
@@ -15,7 +15,7 @@ A lightweight **operator-first** control system that simulates an amusement-ride
 
 ---
 
-## 🎥 Demo
+## Demo
 
 A short video showcasing the system and integrated UI is included with the project submission.
 
