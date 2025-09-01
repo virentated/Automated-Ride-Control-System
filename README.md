@@ -2,7 +2,7 @@
 
 A lightweight **operator-first** control system that simulates an amusement-ride control panel. It synchronizes ride components, enforces safety protocols during routine and emergency operations, and provides clear operator feedback through a Qt5 desktop UI.
 
-> **Note:** This project formed part of a larger proposal that earned an **invitation to Universal Studios’ annual TMTDC competition**.
+<!-- > **Note:** This project formed part of a larger proposal that earned an **invitation to Universal Studios’ annual TMTDC competition**. -->
 
 ## Features
 
